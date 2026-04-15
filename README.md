@@ -1,7 +1,7 @@
 Hi 👋 My name is Rishabh
 ========================
 
-App Dev and Current Freshman at UCLA
+Sophmore @UCLA
 ------------------------
 
 I have been messing around with raspberry pi's and small coding projects for a few years now and they have become a big hobby for me.
