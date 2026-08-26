@@ -10,7 +10,6 @@ I have been messing around with raspberry pi's and small coding projects for a f
 * ✉️  You can contact me at [rishabh.dedhia05@gmail.com](mailto:rishabh.dedhia05@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on anything surrounding React Native
-* ⚡  I have a podcast called 3/4 Asian
 
 <a href="https://www.twitter.com/DedhiaRishabh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DedhiaRishabh?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
